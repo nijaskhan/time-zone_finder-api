@@ -1,4 +1,4 @@
-# time-zone_finder-api
+# Time-zone_finder-api
 <h4> This API provides a valuable service for applications with diverse user bases spanning multiple countries. By utilizing this API, applications can seamlessly detect and display the time zone of each user, as well as the current local time at their location. This functionality is particularly beneficial for applications that cater to a global audience, enhancing user experience and ensuring that time-sensitive information is presented accurately to users worldwide. </h4>
 
 
